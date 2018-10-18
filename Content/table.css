@@ -1,0 +1,13 @@
+﻿body {  
+}
+
+.cTable {
+  margin-bottom: 25px;
+  visibility: visible;
+  transition: visibility 0.5s linear, opacity 0.5s linear;
+}
+
+.cHidden {
+  visibility: hidden;
+  opacity: 0;
+}
